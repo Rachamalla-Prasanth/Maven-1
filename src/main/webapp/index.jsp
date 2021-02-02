@@ -14,6 +14,6 @@
 	 Last Name:<input type="text" name="lastname">
 	 Gmail:<input type="text" name="gmail">
 	 Password:<input type="text" name="password">
-	 <input type="submit" value="Register">
+         Mobile No:<input type="text" name="mobile">                             	 <input type="submit" value="Register">
 </body>
 </html>
