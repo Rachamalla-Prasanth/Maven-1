@@ -12,7 +12,7 @@
 	<h3>Changed for Automation Build Test</h3>
 	 First Name:<input type="text" name="firstname">
 	 Last Name:<input type="text" name="lastname">
-	 Gmail:<input type="text" name="gmail">
+	 Mail:<input type="text" name="gmail">
 	 Password:<input type="text" name="password">
          Mobile:<input type="text" name="mobile">                             	 <input type="submit" value="Register">
 </body>
