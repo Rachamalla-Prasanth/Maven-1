@@ -8,7 +8,7 @@
 </head>
 <body>
 	<h2>Welcome to Home Page of Jenkins Test</h2>
-	<h3>Registration happens here</h3>
+	<h3>Registration  here</h3>
 	<h3>Changed for Automation Build Test</h3>
 	 First Name:<input type="text" name="firstname">
 	 Last Name:<input type="text" name="lastname">
