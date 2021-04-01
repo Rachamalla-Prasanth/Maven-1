@@ -7,6 +7,10 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>Maven-1 Maven Webapp</name>
   <url>http://maven.apache.org</url>
+    <properties>
+     <maven.compiler.source>1.8</maven.compiler.source>
+     <maven.compiler.target>1.8</maven.compiler.target>
+</properties>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -15,6 +19,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  
   <build>
     <finalName>Maven-1</finalName>
   </build>
